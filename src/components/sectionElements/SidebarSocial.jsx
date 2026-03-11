@@ -106,7 +106,7 @@ export default function SidebarSocial({ colorMode, mode = "blog" }) {
                 <div className="flex items-center justify-between flex-shrink-0 px-4 pt-6">
                   <span className="inline-flex items-center gap-2">
                     <img
-                      src={content.texts.navbar.solidLogo.img}
+                      src={content.texts.navbar.logo.imgDesktop}
                       alt={content.texts.navbar.solidLogo.alt}
                       className="w-[90%] h-auto "
                     />
